@@ -1,3 +1,10 @@
+# [1.0.0-beta.2](https://github.com/marcgp/test_repo_2/compare/v1.0.0-beta.1...v1.0.0-beta.2) (2020-01-09)
+
+
+### Bug Fixes
+
+* **temp:** test fix ([e61c8f2](https://github.com/marcgp/test_repo_2/commit/e61c8f26f45c550b893279e4300d9aed24f9bc0b))
+
 # 1.0.0-beta.1 (2020-01-09)
 
 
