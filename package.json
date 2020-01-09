@@ -1,0 +1,53 @@
+{
+    "private": true,
+    "name": "test_repo_2",
+    "version": "0.0.0-next",
+    "license": "MIT",
+    "description": "a test repo",
+    "author": "Marcelo pereira <marcgp@gmail.com>",
+    "repository": "https://github.com/marcgp/test_repo_2.git",
+    "bugs": "https://github.com/marcgp/test_repo_2/issues",
+    "homepage": "https://github.com/marcgp/test_repo_2#readme",
+    "config": {
+        "commitizen": {
+            "path": "./node_modules/cz-conventional-changelog"
+        }
+    },
+    "husky": {
+        "hooks": {
+            "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+        }
+    },
+    "scripts": {
+        "commit": "git add . && git-cz",
+        "ci:deps:install": "npm install",
+        "ci:deps:check": "npm audit --production"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "@commitlint/cli": "8.2.0",
+        "@commitlint/config-conventional": "8.2.0",
+        "@semantic-release/changelog": "3.0.6",
+        "@semantic-release/commit-analyzer": "6.3.3",
+        "@semantic-release/exec": "3.3.8",
+        "@semantic-release/git": "7.0.18",
+        "@semantic-release/github": "5.5.5",
+        "@semantic-release/npm": "5.3.5",
+        "@semantic-release/release-notes-generator": "7.3.5",
+        "@types/jest": "24.0.25",
+        "@types/node": "13.1.2",
+        "commitizen": "4.0.3",
+        "conventional-changelog-conventionalcommits": "4.2.3",
+        "cz-conventional-changelog": "3.0.2",
+        "docsify-cli": "4.4.0",
+        "husky": "3.1.0",
+        "jest": "24.9.0",
+        "semantic-release": "16.0.0-beta.46",
+        "ts-jest": "24.2.0",
+        "ts-loader": "6.2.1",
+        "ts-node": "8.5.4",
+        "tslint": "5.20.1",
+        "tslint-config-prettier": "1.18.0",
+        "typescript": "3.7.4"
+    }
+}

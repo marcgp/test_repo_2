@@ -1,0 +1,40 @@
+name: Beta workflow
+
+on:
+    push:
+        branches:
+            - 'beta'
+
+jobs:
+    build:
+        name: build
+        runs-on: ubuntu-18.04
+
+        steps:
+            - uses: actions/checkout@v1
+            - uses: actions/setup-node@v1
+              with:
+                  node-version: '12.x'
+
+            - name: prepare environment
+              run: echo SKIPPING
+
+            - name: install dependencies
+              run: npm run ci:deps:install
+
+            - name: check dependencies
+              run: npm run ci:deps:check
+
+            - name: check code quality
+              run: echo SKIPPING
+
+            - name: perform tests
+              run: echo SKIPPING
+
+            - name: build
+              run: echo SKIPPING
+
+            - name: release
+              run: ./node_modules/.bin/semantic-release
+              env:
+                GH_TOKEN: ${{ secrets.GH_TOKEN }}
