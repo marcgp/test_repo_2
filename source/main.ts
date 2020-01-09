@@ -1,3 +1,3 @@
-const temp = 'temp-beta';
+const temp = 'temp-beta2';
 
 export { temp };
