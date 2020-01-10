@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/marcgp/test_repo_2/compare/v1.0.0...v1.0.1) (2020-01-10)
+
+
+### Bug Fixes
+
+* **build:** fixed workflow name ([bd8b9e9](https://github.com/marcgp/test_repo_2/commit/bd8b9e95e40ed6e2edb5d7d186ae87caf967f936))
+
 # 1.0.0 (2020-01-10)
 
 
