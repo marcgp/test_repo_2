@@ -1,3 +1,10 @@
+# [1.0.0-beta.3](https://github.com/marcgp/test_repo_2/compare/v1.0.0-beta.2...v1.0.0-beta.3) (2020-01-10)
+
+
+### Bug Fixes
+
+* **build:** fix releaserc and workflows ([f6d6716](https://github.com/marcgp/test_repo_2/commit/f6d6716a74734c9bce46ad319ee43219b4b1e9e9))
+
 # [1.0.0-beta.2](https://github.com/marcgp/test_repo_2/compare/v1.0.0-beta.1...v1.0.0-beta.2) (2020-01-09)
 
 
