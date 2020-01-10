@@ -1,3 +1,11 @@
+## [2.0.1](https://github.com/marcgp/test_repo_2/compare/v2.0.0...v2.0.1) (2020-01-10)
+
+
+### Bug Fixes
+
+* **123:** fix situation in which 123 occurs ([d2318f0](https://github.com/marcgp/test_repo_2/commit/d2318f04cb8125c8ddb15ff37ab95b3ff3e388e4))
+* **456:** fix situation in which 123 occurs ([d7d8042](https://github.com/marcgp/test_repo_2/commit/d7d8042ceb8c01d3a7ac5576e8d8564f2688bcb7))
+
 # [2.0.0](https://github.com/marcgp/test_repo_2/compare/v1.0.1...v2.0.0) (2020-01-10)
 
 
