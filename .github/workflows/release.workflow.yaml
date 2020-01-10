@@ -3,7 +3,10 @@ name: Beta workflow
 on:
     push:
         branches:
+            - 'master'
+            - 'pre/rc'
             - 'beta'
+            - 'next'
 
 jobs:
     build:
