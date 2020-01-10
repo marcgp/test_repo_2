@@ -1,3 +1,10 @@
+# [2.0.0-next.1](https://github.com/marcgp/test_repo_2/compare/v1.0.1...v2.0.0-next.1) (2020-01-10)
+
+
+### Features
+
+* **release:** preparing for next release ([871cf14](https://github.com/marcgp/test_repo_2/commit/871cf143bdb348967833f22ca7357592e85f97c3))
+
 ## [1.0.1](https://github.com/marcgp/test_repo_2/compare/v1.0.0...v1.0.1) (2020-01-10)
 
 
