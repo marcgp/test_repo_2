@@ -1,3 +1,10 @@
+# [3.0.0-beta.2](https://github.com/marcgp/test_repo_2/compare/v3.0.0-beta.1...v3.0.0-beta.2) (2020-01-10)
+
+
+### Bug Fixes
+
+* **test:** fix merging last changes from master ([b9c3669](https://github.com/marcgp/test_repo_2/commit/b9c36699476910f4c22a8e784f49e8f22faf6a83))
+
 # [3.0.0-beta.1](https://github.com/marcgp/test_repo_2/compare/v2.0.0...v3.0.0-beta.1) (2020-01-10)
 
 
