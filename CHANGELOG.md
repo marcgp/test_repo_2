@@ -1,3 +1,15 @@
+# [2.0.0-next.2](https://github.com/marcgp/test_repo_2/compare/v2.0.0-next.1...v2.0.0-next.2) (2020-01-10)
+
+
+### Bug Fixes
+
+* **templates:** fix issues templates ([72dbe8f](https://github.com/marcgp/test_repo_2/commit/72dbe8ff9c89085453d85b9291beeca3e01aa4b3))
+
+
+### Features
+
+* **xxx:** issues templates ([0b65f34](https://github.com/marcgp/test_repo_2/commit/0b65f3412ffe2d1f8a87b14ba67f22475dadd6c5))
+
 # [2.0.0-next.1](https://github.com/marcgp/test_repo_2/compare/v1.0.1...v2.0.0-next.1) (2020-01-10)
 
 
